@@ -1,4 +1,4 @@
-<!-- ============ ANIMATED HEADER ============ -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f6cef24-c09f-460f-94fc-f5cca875e944" /><!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Kamesh%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20QA%20Automation%20Engineer&descSize=20&descAlignY=58" width="100%" />
@@ -16,23 +16,22 @@
 
 ---
 
-## 👨‍💻 `about_me.js`
+## 👋 About Me
 
-```js
-const kamesh = {
-  name: "Kamesh J",
-  roles: ["MERN Stack Developer", "QA Automation Tester"],
-  education: "B.Tech IT @ Sri Shakthi Institute of Engineering & Technology (2023 – 2027)",
-  location: "Tamil Nadu, India 🇮🇳",
-  currentlyLearning: ["Advanced Playwright", "System Design", "DSA on LeetCode"],
-  strengths: ["REST APIs", "JWT Auth", "Page Object Model", "Bug Hunting"],
-  funFact: "I build the app, then I try my best to break it. 😄",
+Hi, I'm **Kamesh** 👨‍💻 — a **MERN Stack Developer** and **QA Automation Tester** who builds full-stack apps and then does his best to break them. 😄
 
-  isHireable() {
-    return true; // 📬 let's talk!
-  },
-};
-```
+<div align="center">
+
+| | |
+|:--|:--|
+| 🧑‍💻 **Roles** | MERN Stack Developer • QA Automation Tester |
+| 🎓 **Education** | B.Tech IT — Sri Shakthi Institute of Engineering & Technology (2023 – 2027) |
+| 📍 **Location** | Tamil Nadu, India 🇮🇳 |
+| 💪 **Strengths** | REST APIs • JWT Auth • Page Object Model • Bug Hunting |
+| 🌱 **Currently Learning** | Advanced Playwright • System Design • DSA on LeetCode |
+| 📬 **Hireable?** | **Yes!** Open to internships & full-time roles — let's talk! |
+
+</div>
 
 ---
 
