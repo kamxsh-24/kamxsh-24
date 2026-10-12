@@ -151,25 +151,7 @@ Designed & automated **7+ end-to-end workflows** (registration, login, applicati
 ### 🧩 LeetCode
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/kamesh_55?theme=dark&font=Fira%20Code&ext=heatmap" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00F5A0/kamxsh-24" alt="Kamesh GitHub contribution chart" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamxsh-24/kamxsh-24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamxsh-24/kamxsh-24/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamxsh-24/kamxsh-24/output/github-snake.svg" />
-</picture>
+<a href="https://leetcode.com/u/kamesh_55/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
 ---
