@@ -1,248 +1,137 @@
-# 👋 Hi, I'm Kamesh J
+<!-- ============ ANIMATED HEADER ============ -->
+<div align="center">
 
-### 🚀 Full Stack Developer | MERN Stack Developer | QA & Automation Testing Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Kamesh%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20QA%20Automation%20Engineer&descSize=20&descAlignY=58" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;JavaScript+Developer;QA+%26+Manual+Testing+Learner;Selenium+with+Java+Learner;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=700&height=60&lines=Building+MERN+apps+that+scale+%F0%9F%9A%80;Breaking+them+with+Playwright+before+users+do+%F0%9F%A7%AA;Writing+clean+APIs+%26+bulletproof+tests+%E2%9C%A8;Smart+India+Hackathon+Inter-College+Selectee+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/kamxsh-24">
-    <img src="https://img.shields.io/badge/GitHub-kamxsh--24-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/kamesh-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Kamesh%20J-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/kamesh_55/">
-    <img src="https://img.shields.io/badge/LeetCode-kamesh__55-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 `about_me.js`
 
-I'm a motivated **Full Stack Developer** with hands-on experience building full-stack web applications using the **MERN Stack**.
+```js
+const kamesh = {
+  name: "Kamesh J",
+  roles: ["MERN Stack Developer", "QA Automation Tester"],
+  education: "B.Tech IT @ Sri Shakthi Institute of Engineering & Technology (2023 – 2027)",
+  location: "Tamil Nadu, India 🇮🇳",
+  currentlyLearning: ["Advanced Playwright", "System Design", "DSA on LeetCode"],
+  strengths: ["REST APIs", "JWT Auth", "Page Object Model", "Bug Hunting"],
+  funFact: "I build the app, then I try my best to break it. 😄",
 
-* 🎓 B.Tech Information Technology student
-* 💻 Interested in Full Stack Web Development
-* ⚛️ Experienced with React.js, Node.js and Express.js
-* 🗄️ Experienced with MongoDB and MySQL
-* 🔗 Interested in REST API development
-* 🧩 Passionate about problem solving
-* 🧪 Currently learning Manual Testing and QA Testing
-* 🤖 Currently learning Selenium Automation Testing with Java
-* 🚀 Continuously improving my development and testing skills
-* 🤝 Interested in software development and testing opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,sql" />
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+  isHireable() {
+    return true; // 📬 let's talk!
+  },
+};
+```
 
 ---
 
-## 🧪 Testing & QA
+## 🧪 Currently Running...
 
-### 🔍 Manual Testing
+```bash
+$ npx playwright test --reporter=list
 
-Currently learning and practicing:
+  ✓  [chromium] › registration.spec.js   › register new student           (1.2s)
+  ✓  [chromium] › login.spec.js          › valid & invalid credentials    (0.9s)
+  ✓  [chromium] › application.spec.js    › submit scholarship application (2.1s)
+  ✓  [chromium] › upload.spec.js         › document upload                (1.7s)
+  ✓  [chromium] › tracking.spec.js       › track application status       (1.0s)
 
-* 📝 Test Case Writing
-* 📋 Test Scenario Creation
-* ✅ Functional Testing
-* 🔐 Login & Registration Testing
-* 🔄 Regression Testing
-* 🐛 Bug Identification
-* 📊 Test Execution
-* 📑 Test Documentation
-* 🔎 Defect Reporting
+  7+ workflows passed 🎉  |  Page Object Model ✔  |  HTML report generated ✔
+```
 
-### 🤖 Automation Testing
+---
 
-Currently learning **Selenium with Java**.
+## 🛠️ Tech Arsenal
 
-* ☕ Java
-* 🌐 Selenium WebDriver
-* 🧪 TestNG
-* 🏗️ Page Object Model
-* 🔄 Automated Test Cases
-* 📊 Test Execution & Reporting
-* 🐛 Automated Bug Detection
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,java,mysql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**Testing & Tools**
+
+<img src="https://skillicons.dev/icons?i=playwright,postman,git,github,vscode,npm&theme=dark" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 PMSS Scholarship Website
-
-**MERN Stack | MongoDB | Express.js | React.js | Node.js**
-
-A web-based scholarship management system that enables students to apply for scholarships and administrators to review, verify and manage applications.
-
-**Key Features**
-
-* 🔐 Secure authentication
-* 📝 Scholarship application management
-* 📊 Application tracking
-* 🔎 Search and filtering
-* 👨‍💼 Admin application verification
-* 🔗 RESTful APIs
-* 📱 Responsive user interface
-* 🗄️ Database-driven application management
-
----
-
-### 🤖 Intelligent Recommendation System
-
-**MERN Stack | MongoDB | Express.js | React.js | Node.js**
-
-A full-stack recommendation system that recommends products based on user preferences.
-
-**Key Features**
-
-* 🎯 Personalized recommendations
-* 🔎 Product searching
-* 🏷️ Product filtering
-* ⚖️ Product comparison
-* 📱 Responsive React interface
-* 🔗 REST APIs
-* 🗄️ MongoDB data management
-* 🔧 Git and GitHub version control
-
----
-
-### 💻 LapWise AI
-
-**MERN Stack | AI | Product Recommendation**
-
-An intelligent laptop recommendation project designed to help users find suitable laptops based on their requirements and preferences.
-
-**Focus Areas**
-
-* 💻 Laptop recommendations
-* 🔎 Product search
-* ⚖️ Product comparison
-* 🎯 User requirements
-* 🛒 Product discovery
-
----
-
-### 🌦️ SkySence
-
-**React | TypeScript | Weather Application**
-
-A modern weather application designed to provide weather information through a responsive web interface.
-
-**Focus Areas**
-
-* 🌤️ Weather information
-* 🔎 City search
-* 📱 Responsive interface
-* 🌐 API integration
-
----
-
-### 🏦 Bank Management System
-
-**Java | OOP | File Handling**
-
-A console-based banking application developed using Java.
-
-**Features**
-
-* 🏦 Account creation
-* 💰 Deposit
-* 💸 Withdrawal
-* 💳 Balance inquiry
-* 📋 Menu-driven interface
-* 🧩 Object-oriented programming
-* 📁 File handling
-
----
-
-## 🧠 Problem Solving
-
-### 💡 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/kamesh_55/">
-    <img src="https://img.shields.io/badge/LeetCode-kamesh__55-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-Currently practicing:
-
-* ☕ Java
-* 🧩 Data Structures & Algorithms
-* 🔤 Strings
-* 📦 Arrays
-* 🔎 Searching
-* 📊 Sorting
-* 🗄️ SQL / MySQL
-* 💡 Problem Solving
-
----
-
-## 📚 Currently Learning
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Development
+### 🎓 PMSS Scholarship Portal
+**Full Stack MERN Application**
 
-* JavaScript ES6+
-* React.js
-* Node.js
-* Express.js
-* REST APIs
-* MongoDB
-* Full Stack Development
+Scholarship management system where students apply and admins review, verify and manage applications.
+
+- 🔐 JWT auth + protected routes
+- 🔎 Search & filtering
+- 📱 Responsive React UI
+- 🗄️ MongoDB (Mongoose)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[🔗 View Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Intelligent Recommendation System
+**Full Stack MERN Application**
 
-### 🧪 Testing & QA
+Product recommendation platform that suggests items based on user preferences and requirements.
 
-* Manual Testing
-* QA Testing
-* Test Case Design
-* Bug Reporting
-* Selenium WebDriver
-* Selenium with Java
-* TestNG
-* Automation Testing
+- 🔍 Search, filter & compare
+- 💡 Smart recommendations
+- 📱 Responsive React UI
+- ⚙️ RESTful APIs
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[🔗 View Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧪 PMSS Scholarship Portal — QA Automation
+Designed & automated **7+ end-to-end workflows** (registration, login, application, document upload, tracking) using **Playwright + JavaScript** with the **Page Object Model**, positive/negative scenarios, **Postman** API validation and **HTML reports**.
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[🔗 View Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 </td>
 </tr>
@@ -250,160 +139,64 @@ Currently practicing:
 
 ---
 
-## 🏆 Honors & Achievements
+## 🏆 Highlights
 
-### 🥇 Smart India Hackathon
-
-Selected at the **Inter-College Level** for:
-
-> **Problem Statement ID: SIH1728**
-> Development of a Paperless Scholarship Disbursement System for PMSSS
-
----
-
-## 💼 Internship Experience
-
-### Frontend Developer Intern — Cognifyz Technologies
-
-**August 2025 – September 2025**
-
-Worked as a Frontend Developer Intern, developing responsive user interfaces using:
-
-* HTML
-* CSS
-* JavaScript
-* Modern web development practices
+| | |
+|---|---|
+| 🥇 **Smart India Hackathon** | Selected at inter-college level — *Paperless Scholarship Disbursement System for PMSSS* (SIH1728) |
+| 💼 **Frontend Intern** | Cognifyz Technologies (Aug – Sep 2025) |
+| 🎭 **Playwright with JavaScript** | Infosys Springboard Virtual Internship 2.0 |
+| 📜 **JavaScript Certification** | Udemy |
 
 ---
 
-## 📜 Certification
+## 📊 GitHub Stats
 
-### JavaScript Certification — Udemy
+<div align="center">
 
-Completed a comprehensive JavaScript course covering:
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-* JavaScript fundamentals
-* DOM manipulation
-* ES6 concepts
-* Hands-on projects
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 
----
+</div>
 
-## 🎓 Education
+### 🧩 LeetCode
 
-### 🏫 Sri Shakthi Institute of Engineering and Technology
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
 
-**Bachelor of Technology — Information Technology**
+### 📈 Contribution Graph
 
-📍 Coimbatore, India
-📅 2023 – 2027
-📊 CGPA: **7.3**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 
 ---
 
-### 🏫 Government Higher Secondary School
+## 🐍 Contribution Snake
 
-**Higher Secondary Education**
-
-📍 Tirupathur, Tamil Nadu
-📅 2022 – 2023
-📊 Percentage: **65%**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamxsh-24&theme=github_dark"
-    alt="GitHub Profile Summary"
-    width="90%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamxsh-24&theme=github_dark"
-    alt="Repositories Per Language"
-    width="45%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamxsh-24&theme=github_dark"
-    alt="Most Commit Language"
-    width="45%"
-  />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/kamxsh-24">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20My%20Activity-181717?style=for-the-badge&logo=github"
-      alt="GitHub Activity"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Check my GitHub profile for repositories, commits and contribution activity.</i>
-</p>
+<a href="mailto:kameshj001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
----
+<br/><br/>
 
-## 📈 Profile Views
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=%22Quality+is+not+an+act%2C+it+is+a+habit.%22;Thanks+for+stopping+by!+%E2%AD%90+a+repo+if+you+liked+it" />
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=kamxsh-24&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kamesh-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/kamxsh-24">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://leetcode.com/u/kamesh_55/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</p>
-
----
-
-## 💬 Let's Build Something Together
-
-I'm interested in:
-
-* 🚀 Full Stack Development
-* ⚛️ React.js Projects
-* 🧪 QA & Software Testing
-* 🤖 Selenium Automation
-* ☕ Java Development
-* 💡 Problem Solving
-* 🤝 Open Source & Collaboration
-
-Feel free to connect with me and explore my projects.
-
----
-
-<p align="center">
-
-### 💡 Build • Test • Learn • Improve
-
-⭐ **Thanks for visiting my GitHub profile!**
-
-</p>
+</div>
