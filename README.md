@@ -11,7 +11,7 @@
 <!-- <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" /> -->
 <a href="https://www.linkedin.com/in/kamesh-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://drive.google.com/file/d/1gHJnLi4_z_o0aMjiqcN-jAloph9_GKzZ/view?usp=drive_link"><img src="https://img.shields.io/badge/MERN%20Resume-View-6366F1?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1BWUHsqnvGfRQ85vf1CQ8SdaRrDGlDZ3D/view?usp=drive_link"><img src="https://img.shields.io/badge/QA%20Resume-View-2EAD33?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
