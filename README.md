@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Kamesh%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20QA%20Automation%20Engineer&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Kamesh%20J&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20QA%20Automation%20Tester&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/kamxsh-24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=900&height=60&lines=Building+MERN+apps+that+scale+%F0%9F%9A%80;Breaking+them+with+Playwright+before+users+do+%F0%9F%A7%AA;Writing+clean+APIs+and+bulletproof+tests+%E2%9C%A8;Smart+India+Hackathon+Inter-College+Selectee+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=900&height=60&lines=MERN+Stack+Developer+%F0%9F%92%BB;Software+Developer+%E2%9A%99%EF%B8%8F;QA+Automation+Tester+%F0%9F%A7%AA" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
-<img src="https://komarev.com/ghpvc/?username=kamxsh-24&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://hits.sh/github.com/kamxsh-24.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" />
 
 <br/><br/>
 
