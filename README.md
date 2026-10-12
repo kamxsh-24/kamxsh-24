@@ -156,7 +156,9 @@ Designed & automated **7+ end-to-end workflows** (registration, login, applicati
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamxsh-24&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/00F5A0/kamxsh-24" alt="Kamesh GitHub contribution chart" width="100%" />
+</div>
 
 ---
 
