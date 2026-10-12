@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
-<img src="https://hits.sh/github.com/kamxsh-24.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" />
+<!-- <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" /> -->
+<a href="https://www.linkedin.com/in/kamesh-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 
 <br/><br/>
 
